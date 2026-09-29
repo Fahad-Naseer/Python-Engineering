@@ -24,6 +24,6 @@ Exercises keep their original names and are sorted into the folder matching thei
 
 ## Why
 
-- Build a rock-solid Python foundation for ML/MLOps
+- Build a solid Python foundation
 - Practice Python automation patterns relevant to Cloud Engineering
 - Stay accountable with daily, public progress
